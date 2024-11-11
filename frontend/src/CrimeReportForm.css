@@ -1,0 +1,27 @@
+.ant-form {
+  text-align: left;
+}
+
+.ant-form-item {
+  width: 280px;
+  text-align: left;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.input-header {
+  font-size: 16px;
+  text-align: left;
+}
+
+.ant-form-item-label {
+  text-align: left;
+}
+
+.ant-picker {
+  width: 100%;
+}

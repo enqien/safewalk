@@ -1,0 +1,17 @@
+.cards-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.ant-card-head {
+  border-color: black;
+}
+
+.ant-card-body {
+  border-color: black !important;
+}
+.ant-card-bordered {
+  border-color: black;
+}
